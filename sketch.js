@@ -12,6 +12,7 @@ var computer, computerBase;
 var playerArrows = [];
 var computerArrows = []
 var arrow;
+var arrows;
 
 function preload(){
   backgroundImg = loadImage("assets/background.gif")
